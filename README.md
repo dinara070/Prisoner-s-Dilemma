@@ -47,6 +47,10 @@
 4. Еволюція співпраці: Теорія ігор у біології
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Untitled.pdf
 
+✅ 🎮 Інтерактивна симуляція гри "Дилема в'язня" (Prisoner_Dilemma_Colab_With_Buttons)
+📎 Файл можна відкрити у Google Colab без встановлення локальних бібліотек:
+- https://colab.research.google.com/drive/19k-qoo5F86Tj5Yo8MP0hGntIJ91-hodh?usp=sharing
+
 ---
 
 ✅ Висновок
