@@ -45,7 +45,7 @@
 3. Дилема в'язня: Вступ до теорії ігор
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-vyaznya-Vstup-do-teoriyi-igor.pdf
 4. Штучний Інтелект у Дилемі В'язня: Хто Перехитрить Кого?
-- github.com/dinara070/Prisoner-s-Dilemma/blob/main/Shtuchnij-Intelekt-u-Dilemi-Vyaznya-Hto-Perehitrit-Kogo.pdf
+- https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Shtuchnij-Intelekt-u-Dilemi-Vyaznya-Hto-Perehitrit-Kogo.pdf
 5. Стратегії у Дилемі В'язня
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Strategiyi-u-Dilemi-Vyaznya.pdf
 6. Еволюція співпраці: Теорія ігор у біології
