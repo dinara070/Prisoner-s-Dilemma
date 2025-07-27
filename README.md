@@ -37,14 +37,16 @@
 
 🧪 Що включає проєкт:
 
-✅ 4 Презентації (у форматі PDF):
-1. Дилема в'язня: Дослідження стратегій та операцій
+✅ 5 Презентацій (у форматі PDF):
+1. Дилема В'язня: За Залізними Ґратами Раціональності
+- https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-Vyaznya-Za-Zaliznimi-Gratami-Racionalnosti.pdf
+2. Дилема в'язня: Дослідження стратегій та операцій
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-vyaznya-Doslidzhennya-strategij-ta-rezultativ.pdf
-2. Дилема в'язня: Вступ до теорії ігор
+3. Дилема в'язня: Вступ до теорії ігор
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-vyaznya-Vstup-do-teoriyi-igor.pdf
-3. Стратегії у Дилемі В'язня
+4. Стратегії у Дилемі В'язня
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Strategiyi-u-Dilemi-Vyaznya.pdf
-4. Еволюція співпраці: Теорія ігор у біології
+5. Еволюція співпраці: Теорія ігор у біології
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Untitled.pdf
 
 ✅ 🎮 Інтерактивна симуляція гри "Дилема в'язня" (Prisoner_Dilemma_Colab_With_Buttons)
