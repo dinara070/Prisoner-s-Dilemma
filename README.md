@@ -43,18 +43,20 @@
 ✅📝 Міні-стаття:
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-Vyaznya-Zanurennya-u-Svit-Strategij-ta-Rishen.pdf
 
-✅ 6 Презентацій (у форматі PDF):
+✅ 7 Презентацій (у форматі PDF):
 1. Дилема В'язня: За Залізними Ґратами Раціональності
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-Vyaznya-Za-Zaliznimi-Gratami-Racionalnosti.pdf
 2. Дилема в'язня: Дослідження стратегій та операцій
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-vyaznya-Doslidzhennya-strategij-ta-rezultativ.pdf
 3. Дилема в'язня: Вступ до теорії ігор
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-vyaznya-Vstup-do-teoriyi-igor.pdf
-4. Штучний Інтелект у Дилемі В'язня: Хто Перехитрить Кого?
+4. Інтерактивна візуалізація стратегій у грі Дилема В'язня
+- https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Interaktivna-vizualizaciya-strategij-u-gri-Dilema-Vyaznya.pdf
+5. Штучний Інтелект у Дилемі В'язня: Хто Перехитрить Кого?
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Shtuchnij-Intelekt-u-Dilemi-Vyaznya-Hto-Perehitrit-Kogo.pdf
-5. Стратегії у Дилемі В'язня
+6. Стратегії у Дилемі В'язня
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Strategiyi-u-Dilemi-Vyaznya.pdf
-6. Еволюція співпраці: Теорія ігор у біології
+7. Еволюція співпраці: Теорія ігор у біології
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Untitled.pdf
 
 ✅ 🎮 Інтерактивна симуляція гри "Дилема в'язня" (Prisoner_Dilemma_Colab_With_Buttons)
