@@ -37,6 +37,9 @@
 
 🧪 Що включає проєкт:
 
+✅🌐 Сайт-візитівка:
+https://dylyema-vyaznya-mtglzqz.gamma.site/
+
 ✅ 6 Презентацій (у форматі PDF):
 1. Дилема В'язня: За Залізними Ґратами Раціональності
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-Vyaznya-Za-Zaliznimi-Gratami-Racionalnosti.pdf
