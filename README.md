@@ -37,6 +37,11 @@
 
 🧪 Що включає проєкт:
 
+✅ Корисні відео:
+- https://www.youtube.com/watch?v=HnjVSCnPYCU
+- https://www.youtube.com/watch?v=h6BDQfR0pvQ
+- https://www.youtube.com/watch?v=a-XVNtiRCBU
+
 ✅🔗 Інтерактивні ресурси
 
 🧠 **Дилема В’язня в інтерактивному вигляді**:  
