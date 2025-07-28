@@ -38,7 +38,10 @@
 🧪 Що включає проєкт:
 
 ✅🌐 Сайт-візитівка:
-https://dylyema-vyaznya-mtglzqz.gamma.site/
+- https://dylyema-vyaznya-mtglzqz.gamma.site/
+
+✅📝 Міні-стаття:
+- https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-Vyaznya-Zanurennya-u-Svit-Strategij-ta-Rishen.pdf
 
 ✅ 6 Презентацій (у форматі PDF):
 1. Дилема В'язня: За Залізними Ґратами Раціональності
