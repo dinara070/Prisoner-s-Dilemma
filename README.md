@@ -55,7 +55,7 @@
 ✅📝 Міні-стаття:
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-Vyaznya-Zanurennya-u-Svit-Strategij-ta-Rishen.pdf
 
-✅ 8 Презентацій (у форматі PDF):
+✅ 9 Презентацій (у форматі PDF):
 1. Дилема В'язня: За Залізними Ґратами Раціональності
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Dilema-Vyaznya-Za-Zaliznimi-Gratami-Racionalnosti.pdf
 2. Дилема в'язня: Дослідження стратегій та операцій
@@ -72,6 +72,8 @@
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Strategiyi-u-Dilemi-Vyaznya.pdf
 8. Еволюція співпраці: Теорія ігор у біології
 - https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Untitled.pdf
+9. Як теорія ігор змінює наші стратегії
+- https://github.com/dinara070/Prisoner-s-Dilemma/blob/main/Yak_teoriya_igor_zminyuye_nashi_strategiyi_Urok_Dilemi_Vyaznya_1.pdf
 
 ### ✅ 🎮 Інтерактивна симуляція гри "Дилема в'язня" (Prisoner_Dilemma_Colab_With_Buttons)
 📎 Файл можна відкрити у Google Colab без встановлення локальних бібліотек:
